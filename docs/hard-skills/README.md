@@ -2,7 +2,7 @@
 
  - [Architecture & Infrastructure](docs/hard-skills/INFRASTRUCTURE.md)
  - [Communication Skills: UI/UX, Copy, SEO](docs/hard-skills/COMMUNICATION.md)
- - [Design](docs/hard-skills/DESIGN.md)
+ - [Code Design](docs/hard-skills/DESIGN.md)
  - [Industry Standards](docs/hard-skills/STANDARDS.md)
  - [Mix](docs/hard-skills/MIXED.md)
  - [PM](docs/hard-skills/MANAGEMENT.md)
