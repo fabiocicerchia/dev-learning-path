@@ -7,5 +7,8 @@
  
 ## Books
 
- - [15 Best Leadership Books Every Leader Must Read To Achieve Success](https://www.lifehack.org/articles/productivity/15-best-leadership-books-every-young-leader-needs-read.html)
- - [15 of the Best Time Management and Productivity Books of All Time](https://www.entrepreneur.com/article/329378)
+ - The Innovator’s Dilemma, by Clayton Christensen
+ - Drive, by Daniel H. Pink
+ - The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change, by Stephen R. Covey
+ - The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich
+ - Deep Work: Rules for Focused Success in a Distracted World, by Cal Newport
