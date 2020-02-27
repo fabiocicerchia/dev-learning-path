@@ -5,6 +5,11 @@
  - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
  - [Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html)
  - [CQRS](https://martinfowler.com/bliki/CQRS.html)
+ - VIDEO [GOTO 2014 • Software Architecture vs. Code • Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)
+ - VIDEO [The Frustrated Architect](https://www.infoq.com/presentations/The-Frustrated-Architect/)
+ - BOOK [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+ - BOOK [Building Evolutionary Architectures](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360)
+ - BOOK [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 
 # INFRASTRUCTURE
 
@@ -24,3 +29,4 @@
  - [Security + DevOps – DevSec Hardening Framework](https://dev-sec.io/)
  - [SERVERLESS PATTERNS](https://serverlesspatterns.io/)
  - [The Ultimate DevOps Tool Chest](https://xebialabs.com/the-ultimate-devops-tool-chest/)
+ - BOOK [The DevOps Handbook](https://www.amazon.com/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)

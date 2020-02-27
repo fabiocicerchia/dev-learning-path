@@ -2,6 +2,16 @@
 
  - [Choosing a Programming Language](https://docs.microsoft.com/en-us/previous-versions/cc168615(v=msdn.10))
  - [Pick your poison: choosing a programming language](http://www.readme.lk/busting-bubbles-ten-popular-programming-languages/)
+ - VIDEO [YouTube Channel: Derek Banas](https://www.youtube.com/user/derekbanas)
+ - VIDEO [YouTube Channel: TheNewBoston](https://www.youtube.com/user/thenewboston)
+ - VIDEO [YouTube Channel: Google Developers](https://www.youtube.com/user/GoogleDevelopers)
+ - VIDEO [YouTube Channel: LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+ - VIDEO [YouTube Channel: mycodeschool](https://www.youtube.com/user/mycodeschool)
+ - VIDEO [YouTube Channel: Traversy Media](https://www.youtube.com/user/TechGuyWeb/)
+ - VIDEO [YouTube Channel: Programming with Mosh](https://www.youtube.com/user/thenewboston)
+ - VIDEO [YouTube Channel: Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
+ - VIDEO [YouTube Channel: Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
+ - VIDEO [YouTube Channel: DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 
 ## CSS
 

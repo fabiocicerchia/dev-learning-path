@@ -8,6 +8,8 @@
  - [10 Things Highly Productive People Don’t Do](https://www.lifehack.org/articles/productivity/10-things-highly-productive-people-dont-2.html)
  - [Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
  - [44 ways to be more productive](https://www.stl-training.co.uk/sharing/16-44-ways-be-more-productive.html)
+ - VIDEO [GOTO 2017 • Forget Velocity, Let's Talk Acceleration • Jessica Kerr](https://www.youtube.com/watch?v=Lbcyyu8XB_Y)
+ - VIDEO [GOTO 2017 • Patterns of Effective Teams • Dan North](https://www.youtube.com/watch?v=lvs7VEsQzKY)
 
 ## Time Management
 

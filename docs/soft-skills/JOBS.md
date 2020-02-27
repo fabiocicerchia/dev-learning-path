@@ -31,6 +31,8 @@
  - [Five Career Mistakes That Might Be Holding You Back](https://lifehacker.com/five-career-mistakes-that-might-be-holding-you-back-1596535994)
  - [7 Free Career Aptitude Tests You Can Take Online Today](https://blog.hubspot.com/marketing/career-aptitude-tests)
  - [How to Tell If You're In a Dead End Job (and What You Can Do About It)](https://lifehacker.com/how-to-tell-if-youre-in-a-dead-end-job-and-what-you-ca-910478489)
+ - VIDEO [Rethinking the Developer Career Path – Randall Koutnik | The Lead Developer UK 2017](https://www.youtube.com/watch?v=yIPbE7BssOs)
+ - BOOK [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
 
 ### Quit
 
@@ -50,6 +52,16 @@
  - [17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
  - [The Five Flavors of Being a CTO](https://www.linkedin.com/pulse/five-flavors-being-cto-matt-tucker/)
  - [Surviving being senior (tech) management.](https://medium.com/@kellan/surviving-being-senior-tech-management-aa6654efd027)
+ - VIDEO [The Constant Life of a Tech Lead – Patrick Kua | The Lead Developer UK 2017](https://www.youtube.com/watch?v=9jd_vpcLK50)
+ - VIDEO [GOTO 2017 • Rethinking Leadership • Andrea Provaglio](https://www.youtube.com/watch?v=A04Pu5LlzHw)
+ - VIDEO [Ten Mistakes Team Leaders Make](https://www.youtube.com/watch?v=qhjXc6niO3k)
+ - VIDEO [The New Manager Death Spiral - Michael Lopp | #LeadDevNewYork 2018](https://www.youtube.com/watch?v=pAbU3WJ-NBw)
+ - BOOK [97 Things Every SQL Developer Should Know](https://www.amazon.com/Things-Every-Developer-Should-Know/dp/0596804334)
+ - BOOK [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)
+ - BOOK [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
+ - BOOK [97 Things Every Project Manager Should Know](https://www.amazon.com/Things-Every-Project-Manager-Should/dp/0596804164)
+ - BOOK [97 Things Every Software Architect Should Know](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)
+ - BOOK [Aws Solutions Architect Associate Sg](https://www.amazon.com/AWS-Certified-Solutions-Architect-Official/dp/1119138558)
  
 ## Job Boards
 

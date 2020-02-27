@@ -3,6 +3,10 @@
  - [Microservices](https://martinfowler.com/articles/microservices.html)
  - [Clean Code Cheat Sheet](https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf)
  - [Pragmatic Programming Cheat Sheet](https://cheatography.com/marconlsantos/cheat-sheets/pragmatic-programming/)
+ - VIDEO [Mixed Paradigms: The Method to Madness. Venkat Subramaniam, Agile developer, Inc](https://www.youtube.com/watch?v=QYBRifsWHD0)
+ - VIDEO [GOTO 2019 • How Thinking Small is Changing Software Development Big Time • Sander Hoogendoorn](https://www.youtube.com/watch?v=YCQMiFF9QXM)
+ - VIDEO [Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
+ - BOOK [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## OOP
 
@@ -17,6 +21,11 @@
  - [High Cohesion, Loose Coupling](https://thebojan.ninja/2015/04/08/high-cohesion-loose-coupling/)
  - [Summary of a four days DDD training](https://medium.com/@t.ferro184/summary-of-a-four-days-ddd-training-74103a6d99a1)
  - [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/)
+ - VIDEO [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
+ - VIDEO [DPC2018: Technically DDD - Pim Elshoff](https://www.youtube.com/watch?v=JpcNeeetijo)
+ - VIDEO [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+ - BOOK [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+ - BOOK [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 ## Functional
 
@@ -27,10 +36,14 @@
  - [IDEA – nonverbal algorithm assembly instructions](https://idea-instructions.com/)
  - [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
  - [Algorithms {fundamental techniques}](https://en.wikibooks.org/wiki/Algorithms)
+ - VIDEO [DPC2017: Paradoxes and theorems every developer should know (Joshua Thijssen)](https://www.youtube.com/watch?v=JBUIIQnVfBQ)
+ - BOOK [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-Desktop-Quick-Reference/dp/1491948922)
 
 ## Refactoring
 
  - [Refactoring](https://sourcemaking.com/refactoring)
+ - BOOK [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
+ - BOOK [Refactoring to Patterns](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)
 
 ## Antipatterns
 
