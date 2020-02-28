@@ -11,6 +11,11 @@ List of great resources needed to expand the know-how and be on the right path t
 
 Do you like this project? Please considering [Sponsoring Me](https://www.patreon.com/fabiocicerchia) or ★ starring this repo!
 
+## Prerequisites
+
+ 1. English Fluency
+ 1. PC / Mac / RPi / etc
+
 ## Contents
 
  - [Soft Skills](docs/soft-skills/README.md)
@@ -36,6 +41,10 @@ Do you like this project? Please considering [Sponsoring Me](https://www.patreon
    - [Industry Trends](docs/mixed/TRENDS.md)
    - [Mix](docs/mixed/MIXED.md)
 
-## TODO
+## Contribution
 
- - Add slides for each video
+Have a look at the [contribution docs](CONTRIBUTING.md) for details.
+
+## License
+
+Have a look at the [license file](LICENSE) for details

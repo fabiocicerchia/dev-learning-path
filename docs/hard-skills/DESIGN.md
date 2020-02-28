@@ -6,8 +6,8 @@
  - [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
  - [Essential XP: Emergent Design](https://ronjeffries.com/xprog/classics/expemergentdesign/)
  - VIDEO [Mixed Paradigms: The Method to Madness. Venkat Subramaniam, Agile developer, Inc](https://www.youtube.com/watch?v=QYBRifsWHD0)
- - VIDEO [GOTO 2019 • How Thinking Small is Changing Software Development Big Time • Sander Hoogendoorn](https://www.youtube.com/watch?v=YCQMiFF9QXM)
- - VIDEO [Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
+ - Sander Hoogendoorn: How Thinking Small is Changing Software Development Big Time [Video @ GOTO 2019](https://www.youtube.com/watch?v=YCQMiFF9QXM) | [Slides](https://www.slideshare.net/aahoogendoorn/its-a-small-world-after-all-how-thinking-small-changes-software-big-time)
+ - Kevlin Henney: Enterprise Programming Tricks For Clean Code [Video](https://www.youtube.com/watch?v=dC9vdQkU-xI) | [Slides](https://www.slideshare.net/Kevlin/clean-coders-hate-what-happens-to-your-code-when-you-use-these-enterprise-programming-tricks-77305014)
  - BOOK [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## OOP
@@ -23,8 +23,9 @@
  - [High Cohesion, Loose Coupling](https://thebojan.ninja/2015/04/08/high-cohesion-loose-coupling/)
  - [Summary of a four days DDD training](https://medium.com/@t.ferro184/summary-of-a-four-days-ddd-training-74103a6d99a1)
  - [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/)
+ - [Design Patterns for Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
  - VIDEO [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
- - VIDEO [DPC2018: Technically DDD - Pim Elshoff](https://www.youtube.com/watch?v=JpcNeeetijo)
+ - Pim Elshoff: Technically DDD [Video @ DPC2018](https://www.youtube.com/watch?v=JpcNeeetijo) | [Slides](https://speakerdeck.com/pelshoff/technically-ddd-v3)
  - VIDEO [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
  - BOOK [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
  - BOOK [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
@@ -46,7 +47,7 @@
  - [IDEA – nonverbal algorithm assembly instructions](https://idea-instructions.com/)
  - [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
  - [Algorithms {fundamental techniques}](https://en.wikibooks.org/wiki/Algorithms)
- - VIDEO [DPC2017: Paradoxes and theorems every developer should know (Joshua Thijssen)](https://www.youtube.com/watch?v=JBUIIQnVfBQ)
+ - Joshua Thijssen: Paradoxes and theorems every developer should know [Video @ DPC2017](https://www.youtube.com/watch?v=JBUIIQnVfBQ) | [Slides](https://speakerdeck.com/jaytaph/paradoxes-and-theorems-every-developer-should-know-3)
  - BOOK [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-Desktop-Quick-Reference/dp/1491948922)
 
 ## Refactoring
@@ -64,4 +65,3 @@
 ## Testing
 
  - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-

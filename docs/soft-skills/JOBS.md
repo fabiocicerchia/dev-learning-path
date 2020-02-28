@@ -31,7 +31,7 @@
  - [Five Career Mistakes That Might Be Holding You Back](https://lifehacker.com/five-career-mistakes-that-might-be-holding-you-back-1596535994)
  - [7 Free Career Aptitude Tests You Can Take Online Today](https://blog.hubspot.com/marketing/career-aptitude-tests)
  - [How to Tell If You're In a Dead End Job (and What You Can Do About It)](https://lifehacker.com/how-to-tell-if-youre-in-a-dead-end-job-and-what-you-ca-910478489)
- - VIDEO [Rethinking the Developer Career Path – Randall Koutnik | The Lead Developer UK 2017](https://www.youtube.com/watch?v=yIPbE7BssOs)
+ - Randall Koutnik: Rethinking the Developer Career Path [Video @ The Lead Developer UK 2017](https://www.youtube.com/watch?v=yIPbE7BssOs) | [Slides](https://speakerdeck.com/rkoutnik/implementers-solvers-finders-rethinking-the-developer-career-path)
  - BOOK [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
 
 ### Quit
@@ -52,10 +52,10 @@
  - [17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
  - [The Five Flavors of Being a CTO](https://www.linkedin.com/pulse/five-flavors-being-cto-matt-tucker/)
  - [Surviving being senior (tech) management.](https://medium.com/@kellan/surviving-being-senior-tech-management-aa6654efd027)
- - VIDEO [The Constant Life of a Tech Lead – Patrick Kua | The Lead Developer UK 2017](https://www.youtube.com/watch?v=9jd_vpcLK50)
- - VIDEO [GOTO 2017 • Rethinking Leadership • Andrea Provaglio](https://www.youtube.com/watch?v=A04Pu5LlzHw)
- - VIDEO [Ten Mistakes Team Leaders Make](https://www.youtube.com/watch?v=qhjXc6niO3k)
- - VIDEO [The New Manager Death Spiral - Michael Lopp | #LeadDevNewYork 2018](https://www.youtube.com/watch?v=pAbU3WJ-NBw)
+ - Patrick Kua: The Constant Life of a Tech Lead [Video @ The Lead Developer UK 2017](https://www.youtube.com/watch?v=9jd_vpcLK50) | [Slides](https://www.slideshare.net/patkua/constant-life-of-a-tech-lead)
+ - Andrea Provaglio: Rethinking Leadership [Video @ GOTO 2017](https://www.youtube.com/watch?v=A04Pu5LlzHw) | [Slides](https://files.gotocon.com/uploads/slides/conference_7/273/original/GOTO%20Berlin%20-%20Rethinking%20Leadership-2.pdf)
+ - Roy Osherove: Ten Mistakes Team Leaders Make [Video @ Skills Matter 2011](https://www.youtube.com/watch?v=qhjXc6niO3k) | [Slides](https://www.slideshare.net/royosherove/ten-mistakes-software-team-leaders-make-by-roy-osherove-5whyscom)
+ - Michael Lopp: The New Manager Death Spiral [Video @ #LeadDevNewYork 2018](https://www.youtube.com/watch?v=pAbU3WJ-NBw) | [Slides](https://speakerdeck.com/calibrate/9-new-manager-death-spiral)
  - BOOK [97 Things Every SQL Developer Should Know](https://www.amazon.com/Things-Every-Developer-Should-Know/dp/0596804334)
  - BOOK [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)
  - BOOK [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)

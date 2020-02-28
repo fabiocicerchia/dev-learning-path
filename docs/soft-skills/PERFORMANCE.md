@@ -10,7 +10,7 @@
  - [44 ways to be more productive](https://www.stl-training.co.uk/sharing/16-44-ways-be-more-productive.html)
  - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)
  - VIDEO [GOTO 2017 • Forget Velocity, Let's Talk Acceleration • Jessica Kerr](https://www.youtube.com/watch?v=Lbcyyu8XB_Y)
- - VIDEO [GOTO 2017 • Patterns of Effective Teams • Dan North](https://www.youtube.com/watch?v=lvs7VEsQzKY)
+ - Dan North: Patterns of Effective Teams [Video @ GOTO 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY) | [Slides](https://files.gotocon.com/uploads/slides/conference_3/62/original/Patterns_of_Effective_Teams%20PDF.pdf)
 
 ## Time Management
 
