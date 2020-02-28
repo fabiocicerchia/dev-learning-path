@@ -1,9 +1,5 @@
 # MIXED
 
-## Databases
-
- - [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
-
 ## Web
 
  - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)

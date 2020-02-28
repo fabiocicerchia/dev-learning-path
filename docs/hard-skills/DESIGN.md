@@ -24,6 +24,7 @@
  - [Summary of a four days DDD training](https://medium.com/@t.ferro184/summary-of-a-four-days-ddd-training-74103a6d99a1)
  - [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/)
  - [Design Patterns for Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
+ - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
  - VIDEO [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
  - Pim Elshoff: Technically DDD [Video @ DPC2018](https://www.youtube.com/watch?v=JpcNeeetijo) | [Slides](https://speakerdeck.com/pelshoff/technically-ddd-v3)
  - VIDEO [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
