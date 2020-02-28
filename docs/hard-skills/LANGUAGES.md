@@ -12,6 +12,7 @@
  - VIDEO [YouTube Channel: Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
  - VIDEO [YouTube Channel: Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
  - VIDEO [YouTube Channel: DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+ - VIDEO [Laracasts](https://laracasts.com)
 
 ## CSS
 

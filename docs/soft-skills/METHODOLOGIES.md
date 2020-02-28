@@ -4,6 +4,7 @@
  - [Explaining Agile](https://www.forbes.com/sites/stevedenning/2016/09/08/explaining-agile/)
  - [Radical Candor — The Surprising Secret to Being a Good Boss](https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
  - [The Future of Management Is Teal](https://www.strategy-business.com/article/00344)
+ - [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
  - BOOK [Making Work Visible](https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150)
  - BOOK [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Essays-Software-Engineering/dp/0201835959)
  - BOOK [Agile Estimating and Planning](https://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415)

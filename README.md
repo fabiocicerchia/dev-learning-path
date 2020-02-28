@@ -9,7 +9,7 @@ List of great resources needed to expand the know-how and be on the right path t
 
 [![Follow me on twitter](https://img.shields.io/twitter/follow/fabiocicerchia.svg?logo=twitter)](https://twitter.com/fabiocicerchia)
 
-Like this project? Please considering [Sponsoring Me](https://www.patreon.com/fabiocicerchia)!
+Do you like this project? Please considering [Sponsoring Me](https://www.patreon.com/fabiocicerchia) or ★ starring this repo!
 
 ## Contents
 
@@ -35,3 +35,7 @@ Like this project? Please considering [Sponsoring Me](https://www.patreon.com/fa
    - [Fun](docs/mixed/FUN.md)
    - [Industry Trends](docs/mixed/TRENDS.md)
    - [Mix](docs/mixed/MIXED.md)
+
+## TODO
+
+ - Add slides for each video

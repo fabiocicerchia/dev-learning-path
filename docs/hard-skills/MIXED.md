@@ -37,3 +37,9 @@
  - [HackTheBox](https://www.hackthebox.eu/)
  - [HackThisSite](https://www.hackthissite.org/)
  - [HackerRank](https://www.hackerrank.com/)
+
+### Code Katas
+
+ - [Kata-Log](https://kata-log.rocks/)
+ - [Kata - Coding Dojo](http://codingdojo.org/kata/)
+ - [Awesome Katas](https://github.com/gamontal/awesome-katas)

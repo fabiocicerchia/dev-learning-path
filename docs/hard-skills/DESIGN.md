@@ -3,6 +3,8 @@
  - [Microservices](https://martinfowler.com/articles/microservices.html)
  - [Clean Code Cheat Sheet](https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf)
  - [Pragmatic Programming Cheat Sheet](https://cheatography.com/marconlsantos/cheat-sheets/pragmatic-programming/)
+ - [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
+ - [Essential XP: Emergent Design](https://ronjeffries.com/xprog/classics/expemergentdesign/)
  - VIDEO [Mixed Paradigms: The Method to Madness. Venkat Subramaniam, Agile developer, Inc](https://www.youtube.com/watch?v=QYBRifsWHD0)
  - VIDEO [GOTO 2019 • How Thinking Small is Changing Software Development Big Time • Sander Hoogendoorn](https://www.youtube.com/watch?v=YCQMiFF9QXM)
  - VIDEO [Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
@@ -26,10 +28,18 @@
  - VIDEO [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
  - BOOK [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
  - BOOK [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+ - BOOK [The Anatomy Of Domain-Driven Design - Booklet](https://leanpub.com/theanatomyofdomain-drivendesign)
 
 ## Functional
 
  - [Don't Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
+ - [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+ - [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
+ - [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
+ - [So You Want to be a Functional Programmer (Part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
+ - [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
+ - [So You Want to be a Functional Programmer (Part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
+ - [Benefits of Functional Programming by Example](https://medium.com/@nickmccurdy/benefits-of-functional-programming-by-example-76f1135b0b18)
 
 ## Algorithms
 
@@ -51,6 +61,7 @@
  - [Seven Microservices Anti-patterns](https://www.infoq.com/articles/seven-uservices-antipatterns/)
  - [AntiPatterns](https://sourcemaking.com/antipatterns)
 
-## Books
+## Testing
 
- - [The Anatomy Of Domain-Driven Design - Booklet](https://leanpub.com/theanatomyofdomain-drivendesign)
+ - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+
