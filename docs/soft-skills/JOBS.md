@@ -48,6 +48,7 @@
  - [The full-stack employee](https://medium.com/chris-messina/the-full-stack-employee-ed0db089f0a1)
  - [The Taxonomy of Terrible Programmers](http://www.aaronstannard.com/the-taxonomy-of-terrible-programmers/)
  - [The Role of the CTO: Four Models for Success](http://www.brixtonspa.com/Career/The_Role_of_the_CTO_4Models.pdf)
+ - [Your first 90 days as CTO or VP Engineering.](https://lethain.com/first-ninety-days-cto-vpe/)
  - [Developer Roadmaps](https://roadmap.sh/) `must-learn`
  - [17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/) `must-learn`
  - [The Five Flavors of Being a CTO](https://www.linkedin.com/pulse/five-flavors-being-cto-matt-tucker/)

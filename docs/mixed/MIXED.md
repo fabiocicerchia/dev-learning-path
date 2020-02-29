@@ -50,3 +50,4 @@
 ## Lessons Learned
 
  - [Learnings from 80 startup CTOs](https://medium.com/@fesja/learnings-from-80-startup-ctos-88ddb5f9c024)
+ - [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/) `must`

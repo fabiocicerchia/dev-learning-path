@@ -64,3 +64,8 @@
 ## Testing
 
  - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+ - [Introduction to Test Driven Development (TDD)](http://agiledata.org/essays/tdd.html) `must`
+ - [The beginner's guide to BDD (behaviour-driven development)](https://inviqa.com/blog/bdd-guide) `must`
+ - [Types Of Software Testing: Different Testing Types With Details](https://www.softwaretestinghelp.com/types-of-software-testing/)
+ - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) `must`
+ - BOOK [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)

@@ -17,3 +17,4 @@
  - [34 Ways To Improve SEO Rankings in 2020](https://www.quicksprout.com/ways-to-improve-seo-ranking/)
  - [The On-Page SEO Cheat Sheet](https://neilpatel.com/2015/07/07/the-on-page-seo-cheat-sheet/)
  - [How to Create a Site Structure That Will Enhance SEO](https://neilpatel.com/blog/site-structure-enhance-seo/)
+ - [A Breakdown of HTML Usage Across ~8 Million Pages (& What It Means for Modern SEO)](https://moz.com/blog/a-breakdown-of-html-usage-across-8-million-pages) `must-learn`

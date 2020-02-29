@@ -6,6 +6,7 @@
  - [Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html)
  - [CQRS](https://martinfowler.com/bliki/CQRS.html)
  - [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/) `must-learn`
+ - [Software Architecture for Developers](https://softwarearchitecturefordevelopers.com/)
  - Simon Brown: Software Architecture vs. Code [Video @ GOTO 2014](https://www.youtube.com/watch?v=GAFZcYlO5S0) | [Slides](http://gotocon.com/dl/goto-amsterdam-2014/slides/SimonBrown_SoftwareArchitectureVsCode.pdf) `must-learn`
  - VIDEO [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs) `must-learn`
  - VIDEO [The Frustrated Architect](https://www.infoq.com/presentations/The-Frustrated-Architect/) (contains slides)

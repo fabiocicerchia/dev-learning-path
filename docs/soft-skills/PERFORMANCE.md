@@ -25,6 +25,7 @@
  - [A Checklist for Making Faster, Better Decisions](https://hbr.org/2016/03/a-checklist-for-making-faster-better-decisions)
  - [Strategy vs. Tactics: What’s the Difference and Why Does it Matter?](https://fs.blog/2018/08/strategy-vs-tactics/)
  - [How to Improve Critical Thinking](https://www.scotthyoung.com/blog/2019/03/07/improve-critical-thinking/)
+ - [The Decision Matrix: How to Prioritize What Matters](https://fs.blog/2018/09/decision-matrix/)
 
 ## KPIs
 
