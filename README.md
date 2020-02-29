@@ -1,6 +1,7 @@
 # Developer's Learning Path
 
 List of great resources needed to expand the know-how and be on the right path to be a top-tier developer.
+This repo was inspired by the [XPeppers' Learning Path](https://github.com/xpeppers/starway-to-orione) and my [Book's Draft](https://leanpub.com/thedeveloperspath/).
 
 [![Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true)](https://github.com/fabiocicerchia/dev-learning-path/pulls)
 [![MIT License](https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true)](LICENSE)
@@ -9,12 +10,16 @@ List of great resources needed to expand the know-how and be on the right path t
 
 [![Follow me on twitter](https://img.shields.io/twitter/follow/fabiocicerchia.svg?logo=twitter)](https://twitter.com/fabiocicerchia)
 
-Do you like this project? Please considering [Sponsoring Me](https://www.patreon.com/fabiocicerchia) or ★ starring this repo!
+Do you like this project? Please considering [sponsoring me](https://www.patreon.com/fabiocicerchia) or ★ starring this repo!
 
 ## Prerequisites
 
  1. English Fluency
  1. PC / Mac / RPi / etc
+
+## Notes
+
+The resources might have a tag `must-learn` because the author considers those as a foundation item that cannot be skipped.
 
 ## Contents
 

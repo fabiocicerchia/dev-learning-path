@@ -2,12 +2,12 @@
 
 ## Web
 
- - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
+ - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) `must-learn`
  - [HTTP for servers](http://www.and.org/texts/server-http)
 
 ## Version Control
 
- - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+ - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) `must-learn`
  - [6 Version Control Systems Reviewed](https://www.smashingmagazine.com/2008/09/the-top-7-open-source-version-control-systems/)
  - [Learn Git Branching](https://learngitbranching.js.org/)
 
@@ -32,7 +32,7 @@
  - [FightCodeGame](http://beta.fightcodegame.com/)
  - [HackTheBox](https://www.hackthebox.eu/)
  - [HackThisSite](https://www.hackthissite.org/)
- - [HackerRank](https://www.hackerrank.com/)
+ - [HackerRank](https://www.hackerrank.com/) `must-learn`
 
 ### Code Katas
 

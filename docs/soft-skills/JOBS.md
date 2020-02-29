@@ -10,7 +10,7 @@
 
 ## Interviews
 
- - [Reverse interview](https://github.com/viraptor/reverse-interview)
+ - [Reverse interview](https://github.com/viraptor/reverse-interview) `must-learn`
  - [Interview questions](https://github.com/odino/interviews)
  - [34 Crucial Tips For Your Next Job Interview](https://www.lifehack.org/articles/work/34-crucial-tips-for-your-next-job-interview.html)
  - [Most Difficult Companies To Interview For](https://www.businessinsider.com/most-difficult-companies-to-interview-for-2013-8)
@@ -32,7 +32,7 @@
  - [7 Free Career Aptitude Tests You Can Take Online Today](https://blog.hubspot.com/marketing/career-aptitude-tests)
  - [How to Tell If You're In a Dead End Job (and What You Can Do About It)](https://lifehacker.com/how-to-tell-if-youre-in-a-dead-end-job-and-what-you-ca-910478489)
  - Randall Koutnik: Rethinking the Developer Career Path [Video @ The Lead Developer UK 2017](https://www.youtube.com/watch?v=yIPbE7BssOs) | [Slides](https://speakerdeck.com/rkoutnik/implementers-solvers-finders-rethinking-the-developer-career-path)
- - BOOK [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)
+ - BOOK [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U) `must-learn`
 
 ### Quit
 
@@ -44,12 +44,12 @@
 
 ### Roles
 
- - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
+ - [Sharing Our Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder) `must-learn`
  - [The full-stack employee](https://medium.com/chris-messina/the-full-stack-employee-ed0db089f0a1)
  - [The Taxonomy of Terrible Programmers](http://www.aaronstannard.com/the-taxonomy-of-terrible-programmers/)
  - [The Role of the CTO: Four Models for Success](http://www.brixtonspa.com/Career/The_Role_of_the_CTO_4Models.pdf)
- - [Developer Roadmaps](https://roadmap.sh/)
- - [17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
+ - [Developer Roadmaps](https://roadmap.sh/) `must-learn`
+ - [17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/) `must-learn`
  - [The Five Flavors of Being a CTO](https://www.linkedin.com/pulse/five-flavors-being-cto-matt-tucker/)
  - [Surviving being senior (tech) management.](https://medium.com/@kellan/surviving-being-senior-tech-management-aa6654efd027)
  - Patrick Kua: The Constant Life of a Tech Lead [Video @ The Lead Developer UK 2017](https://www.youtube.com/watch?v=9jd_vpcLK50) | [Slides](https://www.slideshare.net/patkua/constant-life-of-a-tech-lead)

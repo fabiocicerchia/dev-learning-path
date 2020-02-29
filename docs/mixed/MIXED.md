@@ -31,13 +31,13 @@
 
 ## Stories
 
- - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+ - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) `must-learn`
  - [Part 2: How to stop me harvesting credit card numbers and passwords from your site](https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9)
  - [I Used The Web For A Day On A 50 MB Budget](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
 
 ## Etiquette
 
- - [50 Amazing Office Etiquette Tips to Transform Your Company Culture](https://smallbiztrends.com/2017/06/office-etiquette.html)
+ - [50 Amazing Office Etiquette Tips to Transform Your Company Culture](https://smallbiztrends.com/2017/06/office-etiquette.html) `must-learn`
  - [Netiquette](https://www.fau.edu/oit/student/netiquette.php)
  - [Seven principles of pair programming etiquette](https://itnext.io/seven-principles-of-pair-programming-etiquette-74a2b3b233b0)
  - [Developer Etiquette – Code Review and Pull Request Comments](https://gooroo.io/GoorooTHINK/Article/16363/Developer-Etiquette--Code-Review-and-Pull-Request-Comments/19614)

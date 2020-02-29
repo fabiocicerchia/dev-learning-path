@@ -1,33 +1,31 @@
 # Code Design
 
  - [Microservices](https://martinfowler.com/articles/microservices.html)
- - [Clean Code Cheat Sheet](https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf)
+ - [Clean Code Cheat Sheet](https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf) `must-learn`
  - [Pragmatic Programming Cheat Sheet](https://cheatography.com/marconlsantos/cheat-sheets/pragmatic-programming/)
  - [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
  - [Essential XP: Emergent Design](https://ronjeffries.com/xprog/classics/expemergentdesign/)
- - VIDEO [Mixed Paradigms: The Method to Madness. Venkat Subramaniam, Agile developer, Inc](https://www.youtube.com/watch?v=QYBRifsWHD0)
+ - VIDEO [Mixed Paradigms: The Method to Madness. Venkat Subramaniam, Agile developer, Inc](https://www.youtube.com/watch?v=QYBRifsWHD0) `must-learn`
  - Sander Hoogendoorn: How Thinking Small is Changing Software Development Big Time [Video @ GOTO 2019](https://www.youtube.com/watch?v=YCQMiFF9QXM) | [Slides](https://www.slideshare.net/aahoogendoorn/its-a-small-world-after-all-how-thinking-small-changes-software-big-time)
- - Kevlin Henney: Enterprise Programming Tricks For Clean Code [Video](https://www.youtube.com/watch?v=dC9vdQkU-xI) | [Slides](https://www.slideshare.net/Kevlin/clean-coders-hate-what-happens-to-your-code-when-you-use-these-enterprise-programming-tricks-77305014)
+ - Kevlin Henney: Enterprise Programming Tricks For Clean Code [Video](https://www.youtube.com/watch?v=dC9vdQkU-xI) | [Slides](https://www.slideshare.net/Kevlin/clean-coders-hate-what-happens-to-your-code-when-you-use-these-enterprise-programming-tricks-77305014) `must-learn`
  - BOOK [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## OOP
 
  - [Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
- - [Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
+ - [Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html) `must-learn`
  - [Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
  - [Why NULL is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
- - [SOLID, GRASP, and Other Basic Principles of Object-Oriented Design](https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o)
+ - [SOLID, GRASP, and Other Basic Principles of Object-Oriented Design](https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o) `must-learn`
  - [DDD Reference](https://domainlanguage.com/ddd/reference/)
- - [Design Patterns](https://sourcemaking.com/design_patterns)
- - [DESIGN PATTERNS](https://refactoring.guru/design-patterns)
+ - [Design Patterns](https://sourcemaking.com/design_patterns) `must-learn`
+ - [DESIGN PATTERNS](https://refactoring.guru/design-patterns) `must-learn`
  - [High Cohesion, Loose Coupling](https://thebojan.ninja/2015/04/08/high-cohesion-loose-coupling/)
  - [Summary of a four days DDD training](https://medium.com/@t.ferro184/summary-of-a-four-days-ddd-training-74103a6d99a1)
- - [CQRS and Event Sourcing Intro For Developers](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/)
  - [Design Patterns for Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
- - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
- - VIDEO [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
+ - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/) `must-learn`
  - Pim Elshoff: Technically DDD [Video @ DPC2018](https://www.youtube.com/watch?v=JpcNeeetijo) | [Slides](https://speakerdeck.com/pelshoff/technically-ddd-v3)
- - VIDEO [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+ - VIDEO [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0) `must-learn`
  - BOOK [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
  - BOOK [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
  - BOOK [The Anatomy Of Domain-Driven Design - Booklet](https://leanpub.com/theanatomyofdomain-drivendesign)
@@ -48,13 +46,13 @@
  - [IDEA – nonverbal algorithm assembly instructions](https://idea-instructions.com/)
  - [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
  - [Algorithms {fundamental techniques}](https://en.wikibooks.org/wiki/Algorithms)
- - Joshua Thijssen: Paradoxes and theorems every developer should know [Video @ DPC2017](https://www.youtube.com/watch?v=JBUIIQnVfBQ) | [Slides](https://speakerdeck.com/jaytaph/paradoxes-and-theorems-every-developer-should-know-3)
+ - Joshua Thijssen: Paradoxes and theorems every developer should know [Video @ DPC2017](https://www.youtube.com/watch?v=JBUIIQnVfBQ) | [Slides](https://speakerdeck.com/jaytaph/paradoxes-and-theorems-every-developer-should-know-3) `must-learn`
  - BOOK [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-Desktop-Quick-Reference/dp/1491948922)
 
 ## Refactoring
 
  - [Refactoring](https://sourcemaking.com/refactoring)
- - BOOK [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
+ - BOOK [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0134757599) `must-learn`
  - BOOK [Refactoring to Patterns](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)
 
 ## Antipatterns

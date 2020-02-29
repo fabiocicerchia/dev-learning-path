@@ -11,7 +11,7 @@
 
 ## Coding Standards
 
- - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
+ - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) `must-learn`
  - [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
  - [Terraform best practices](https://www.terraform-best-practices.com/)
  - [JavaScript Style Guide](https://github.com/airbnb/javascript)
@@ -19,7 +19,8 @@
 ## Infrastructure
 
  - [Cloud Native Landscape](https://github.com/cncf/landscape)
- - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+ - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) `must-learn`
+ - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Security
 

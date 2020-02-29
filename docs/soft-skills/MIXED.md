@@ -7,7 +7,7 @@
 
 ## Management
 
- - BOOK [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+ - BOOK [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) `must-learn`
  - BOOK [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
  
 ## Books

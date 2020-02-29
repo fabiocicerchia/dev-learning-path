@@ -5,7 +5,7 @@
  - [Learn the Basics of Color Theory to Know What Looks Good](https://lifehacker.com/learn-the-basics-of-color-theory-to-know-what-looks-goo-1608972072)
  - [How Typography Affects Conversions](https://neilpatel.com/blog/how-typography-affects-conversions/)
  - [whocanuse.com](https://whocanuse.com/)
- - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+ - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) `must-learn`
 
 ## Copywriting
 

@@ -4,17 +4,17 @@
 
  - [6 CEO Productivity Tips to Steal for Yourself](https://mashable.com/2014/04/21/productivity-tips-ceo/)
  - [13 Tech CEOs And Founders Reveal Their Favorite Productivity Hacks To Help You Get More Done](https://www.businessinsider.com/tech-ceos-favorite-productivity-hacks-2013-8)
- - [50 Tricks to Get Things Done Faster, Better, and More Easily](https://www.lifehack.org/articles/productivity/50-tricks-to-get-things-done-faster-better-and-more-easily.html)
+ - [50 Tricks to Get Things Done Faster, Better, and More Easily](https://www.lifehack.org/articles/productivity/50-tricks-to-get-things-done-faster-better-and-more-easily.html) `must-learn`
  - [10 Things Highly Productive People Don’t Do](https://www.lifehack.org/articles/productivity/10-things-highly-productive-people-dont-2.html)
  - [Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
  - [44 ways to be more productive](https://www.stl-training.co.uk/sharing/16-44-ways-be-more-productive.html)
- - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)
+ - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique) `must-learn`
  - VIDEO [GOTO 2017 • Forget Velocity, Let's Talk Acceleration • Jessica Kerr](https://www.youtube.com/watch?v=Lbcyyu8XB_Y)
- - Dan North: Patterns of Effective Teams [Video @ GOTO 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY) | [Slides](https://files.gotocon.com/uploads/slides/conference_3/62/original/Patterns_of_Effective_Teams%20PDF.pdf)
+ - Dan North: Patterns of Effective Teams [Video @ GOTO 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY) | [Slides](https://files.gotocon.com/uploads/slides/conference_3/62/original/Patterns_of_Effective_Teams%20PDF.pdf) `must-learn`
 
 ## Time Management
 
- - [26 Time Management Hacks I Wish I'd Known at 20](https://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20)
+ - [26 Time Management Hacks I Wish I'd Known at 20](https://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20) `must-learn`
  - [16 Tips for Getting 90 Percent of Your Work Done Before Lunch](https://www.inc.com/neil-patel/16-tips-for-getting-90-of-your-work-done-in-the-morning.html)
  - [Time Management](https://www.mindtools.com/pages/main/newMN_HTE.htm)
  - [Types of Procrastination (And How To Fix Procrastination And Start Doing)](https://www.lifehack.org/articles/productivity/types-procrastination-and-how-you-can-fix-them.html)
