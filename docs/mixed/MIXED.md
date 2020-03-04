@@ -4,6 +4,7 @@
 
  - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
  - [hacker-laws](https://github.com/dwmkerr/hacker-laws)
+ - [Awesome lists](https://github.com/sindresorhus/awesome)
 
 ### Other Learning Paths
 

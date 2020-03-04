@@ -8,6 +8,7 @@
  - [TLS/SSL Explained: TLS/SSL Terminology and Basics](https://dzone.com/articles/tlsssl-terminology-and-basics)
  - [WHAT DO WE REALLY NEED TO ENCRYPT. CHEATSHEET](https://www.cossacklabs.com/blog/what-we-need-to-encrypt-cheatsheet.html) `must-learn`
  - [Secure Programming HOWTO](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
+ - [Security architecture anti-patterns](https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns)
  - BOOK [CEH v10 Certified Ethical Hacker](https://www.amazon.com/Certified-Ethical-Hacker-Study-Guide/dp/1119533198)
  - BOOK [ISC2 CISSP Certified Information Systems Security Professional Official Study Guide](https://www.amazon.com/Certified-Information-Security-Professional-Official/dp/1119523265)
  - VIDEO [YouTube Channel: Dion Training](https://www.youtube.com/channel/UCEJy7bKsMJqyb_z75V1fAsg)

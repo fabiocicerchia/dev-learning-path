@@ -23,6 +23,7 @@
  - [A tcpdump Tutorial with Examples — 50 Ways to Isolate Traffic](https://danielmiessler.com/study/tcpdump/)
  - [CIDR.xyz](https://cidr.xyz/)
  - [Understanding IP Addressing and CIDR Charts](https://www.ripe.net/about-us/press-centre/understanding-ip-addressing) `must-learn`
+ - BOOK [How to Monitoring the SRE Golden Signals](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/) `must-learn`
 
 ## DevOps
 
