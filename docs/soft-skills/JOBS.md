@@ -68,6 +68,13 @@
 
  - [40+ Freelance Job Sites for Designers & Programmers (2019)](https://www.hongkiat.com/blog/50-freelance-job-sites-for-designers-programmers-best-of/)
 
+## Remote Work
+
+ - [Quick, work remote! A guide on how to set up your remote working strategy](https://intenseminimalism.com/2020/quick-work-remote/)
+ - [Remote Work: Jobs, Companies & Virtual Teams - Remote.co](https://remote.co/)
+ - [We Work Remotely: Remote jobs in design, programming, marketing and more](https://weworkremotely.com/)
+ - [State Of Remote Work](https://buffer.com/state-of-remote-work-2019)
+
 ## Negotiation
 
  - [How To Prepare For A Salary Negotiation: A Check List](https://99u.adobe.com/articles/61016/how-to-prepare-for-a-salary-negotiation-a-check-list)

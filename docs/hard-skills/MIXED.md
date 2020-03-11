@@ -5,6 +5,13 @@
  - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) `must-learn`
  - [HTTP for servers](http://www.and.org/texts/server-http)
 
+## Regular Expression
+
+ - [Mastering Regular Expressions](https://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124)
+ - [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/)
+ - [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
+ - [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
+
 ## Version Control
 
  - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) `must-learn`
