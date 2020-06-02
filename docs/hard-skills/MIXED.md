@@ -17,6 +17,8 @@
  - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) `must-learn`
  - [6 Version Control Systems Reviewed](https://www.smashingmagazine.com/2008/09/the-top-7-open-source-version-control-systems/)
  - [Learn Git Branching](https://learngitbranching.js.org/)
+ - [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+ - [Git Command Explorer](https://gitexplorer.com/)
 
 ## Accessibility
 
@@ -28,6 +30,17 @@
  - [Web Developer Checklist](http://webdevchecklist.com/)
  - [The SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist)
  - [Web Application Security Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)
+ - [Website Launch Checklist](https://websitelaunchchecklist.com/)
+ - [Database Testing Checklist](https://www.professionalqa.com/database-testing-checklist)
+ - [Backend development best practices](https://github.com/futurice/backend-best-practices)
+ - [The Front-End Checklist](https://frontendchecklist.io/)
+ - [Checklist of Checkpoints for Web Content Accessibility Guidelines 1.0](https://www.w3.org/TR/WAI-WEBCONTENT/full-checklist.html)
+ - [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
+ - [The A11Y Project Checklist](https://a11yproject.com/checklist/)
+ - [The Definitive Website Accessibility Checklist](https://www.webfx.com/blog/web-design/website-accessibility-checklist/)
+ - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+ - [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+ - [The GDPR Compliance Checklist](https://gdprchecklist.io/)
 
 ## Challenges
 
