@@ -47,6 +47,12 @@ The resources might have a tag `must-learn` because the author considers those a
    - [Industry Trends](docs/mixed/TRENDS.md)
    - [Mix](docs/mixed/MIXED.md)
 
+## Roadmap
+
+ - [Entry](roadmap/ENTRY.md)
+ - [Intermediate](roadmap/INTERMEDIATE.md)
+ - [Advanced](roadmap/ADVANCED.md)
+
 ## Contribution
 
 Have a look at the [contribution docs](CONTRIBUTING.md) for details.

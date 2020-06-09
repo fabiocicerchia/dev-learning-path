@@ -17,8 +17,8 @@
  - [Udemy](https://www.udemy.com/)
  - [edX](https://www.edx.org/)
  - [DevTube - The best developer videos in one place](https://dev.tube/)
- - [Learn Code the Hard Way](https://learncodethehardway.org/)
- - [Learn X in Y minutes](https://learnxinyminutes.com/)
+ - [Learn Code the Hard Way](https://learncodethehardway.org/) `Roadmap:Intermediate`
+ - [Learn X in Y minutes](https://learnxinyminutes.com/) `Roadmap:Intermediate`
 
 # Certifications
 
