@@ -19,6 +19,8 @@
  - [Learn Git Branching](https://learngitbranching.js.org/) `Roadmap:Entry`
  - [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1) `Roadmap:Intermediate`
  - [Git Command Explorer](https://gitexplorer.com/) `Roadmap:Entry`
+ - [Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation) `Roadmap:Intermediate`
+ - [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) `Roadmap:Intermediate`
 
 ## Accessibility
 

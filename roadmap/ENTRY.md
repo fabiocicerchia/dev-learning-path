@@ -77,7 +77,11 @@
 ## MIXED - MIXED
  - [50 Amazing Office Etiquette Tips to Transform Your Company Culture](https://smallbiztrends.com/2017/06/office-etiquette.html)
  - [Can I Unicode‽](https://mathiasbynens.github.io/caniunicode/)
+ - [Developer Etiquette – Code Review and Pull Request Comments](https://erikzaadi.com/2019/09/29/pull-request-etiquette-a-set-of-simple-rules-for-your-code-review/)
+ - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+ - [Learning Resource Roadmap - (Front-End Development)](https://github.com/devcenter-square/Learning-Resource-Path-Front-End)
  - [Netiquette](https://www.fau.edu/oit/student/netiquette.php)
+ - [Web Developer Shortcut](https://github.com/rkukuh/web-developer-shortcut)
 
 ## SOFT-SKILLS - JOBS
  - BOOK [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U)

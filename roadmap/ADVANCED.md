@@ -14,6 +14,7 @@
 ## HARD-SKILLS - DESIGN
  - VIDEO [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
  - [Microservices](https://martinfowler.com/articles/microservices.html)
+ - [Provable Refactorings](https://github.com/digdeeproots/provable-refactorings)
  - [Seven Microservices Anti-patterns](https://www.infoq.com/articles/seven-uservices-antipatterns/)
 
 ## HARD-SKILLS - INFRASTRUCTURE

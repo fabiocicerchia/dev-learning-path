@@ -58,6 +58,7 @@
 ## HARD-SKILLS - MIXED
  - [6 Version Control Systems Reviewed](https://www.smashingmagazine.com/2008/09/the-top-7-open-source-version-control-systems/)
  - [Advent of Code](https://adventofcode.com/)
+ - [Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
  - [Awesome Katas](https://github.com/gamontal/awesome-katas)
  - [Backend development best practices](https://github.com/futurice/backend-best-practices)
  - [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
@@ -81,6 +82,7 @@
  - [Web Developer Checklist](http://webdevchecklist.com/)
  - [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
  - [Website Launch Checklist](https://websitelaunchchecklist.com/)
+ - [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 
 ## HARD-SKILLS - PERFORMANCE
  - [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
@@ -122,6 +124,7 @@
  - [Dev etiquettes that you must not ignore](https://codeburst.io/dev-etiquettes-that-you-must-not-ignore-619e1bb490b8)
  - [I Used The Web For A Day On A 50 MB Budget](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
  - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+ - [Learning Resource Roadmap - (Front-End Development)](https://github.com/devcenter-square/Learning-Resource-Path-Front-End)
  - [Making Sense of Software Licensing](https://www.techsoup.org/support/articles-and-how-tos/making-sense-of-software-licensing)
  - [Part 2: How to stop me harvesting credit card numbers and passwords from your site](https://medium.com/hackernoon/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9)
  - [Seven principles of pair programming etiquette](https://itnext.io/seven-principles-of-pair-programming-etiquette-74a2b3b233b0)
@@ -129,6 +132,7 @@
  - [The Joel Test For Programmers (The Simple Programmer Test)](https://simpleprogrammer.com/joel-test-programmers-simple-programmer-test/)
  - [Understand Creative Commons Licensing With This Chart](https://lifehacker.com/understand-creative-commons-licensing-with-this-chart-1614149185)
  - [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html)
+ - [Web Developer Shortcut](https://github.com/rkukuh/web-developer-shortcut)
 
 ## MIXED - TRENDS
  - [Master Technology Trends, Digital Trends & Digital Business](https://www.gartner.com/en/information-technology/insights/trends-predictions)

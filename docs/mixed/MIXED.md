@@ -9,13 +9,14 @@
 ### Other Learning Paths
 
  - [Starway to Orione: the Orione Team Learning Path](https://github.com/xpeppers/starway-to-orione) `Roadmap:Advanced`
- - [Learning Resource Roadmap - (Front-End Development)](https://github.com/devcenter-square/Learning-Resource-Path-Front-End) `Roadmap:Advanced`
+ - [Learning Resource Roadmap - (Front-End Development)](https://github.com/devcenter-square/Learning-Resource-Path-Front-End) `Roadmap:Entry` `Roadmap:Intermediate` `Roadmap:Advanced`
  - [Virgilio](https://github.com/virgili0/Virgilio) `Roadmap:Advanced`
  - [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) `Roadmap:Advanced`
  - [Kubernetes Learning Path v2.0](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/) `Roadmap:Advanced`
  - [Developer Roadmap](https://github.com/luuductrung1234/dev-roadmap) `Roadmap:Advanced`
  - [ShowPath.tech](https://github.com/PJijin/Show-Path) `Roadmap:Advanced`
- - [Web Developer Shortcut](https://github.com/rkukuh/web-developer-shortcut) `Roadmap:Advanced`
+ - [Web Developer Shortcut](https://github.com/rkukuh/web-developer-shortcut) `Roadmap:Entry` `Roadmap:Intermediate` `Roadmap:Advanced`
+ - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) `Roadmap:Entry`
 
 
 ## Startup
@@ -41,7 +42,7 @@
  - [50 Amazing Office Etiquette Tips to Transform Your Company Culture](https://smallbiztrends.com/2017/06/office-etiquette.html) `Roadmap:Entry` `must-learn`
  - [Netiquette](https://www.fau.edu/oit/student/netiquette.php) `Roadmap:Entry`
  - [Seven principles of pair programming etiquette](https://itnext.io/seven-principles-of-pair-programming-etiquette-74a2b3b233b0) `Roadmap:Intermediate`
- - [Developer Etiquette – Code Review and Pull Request Comments](https://gooroo.io/GoorooTHINK/Article/16363/Developer-Etiquette--Code-Review-and-Pull-Request-Comments/19614)
+ - [Developer Etiquette – Code Review and Pull Request Comments](https://erikzaadi.com/2019/09/29/pull-request-etiquette-a-set-of-simple-rules-for-your-code-review/) `Roadmap:Entry`
  - [Dev etiquettes that you must not ignore](https://codeburst.io/dev-etiquettes-that-you-must-not-ignore-619e1bb490b8) `Roadmap:Intermediate`
 
 ## Tests
