@@ -53,6 +53,7 @@
  - [17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/) `Roadmap:Advanced` `must-learn`
  - [The Five Flavors of Being a CTO](https://www.linkedin.com/pulse/five-flavors-being-cto-matt-tucker/) `Roadmap:Advanced`
  - [Surviving being senior (tech) management.](https://medium.com/@kellan/surviving-being-senior-tech-management-aa6654efd027) `Roadmap:Advanced`
+ - [Job Titles & Levels: What Every Software Engineer Needs to Know](https://www.holloway.com/s/trh-job-titles-levels-fundamentals-for-software-engineering) `Roadmap:Entry` `must-learn`
  - Patrick Kua: The Constant Life of a Tech Lead [Video @ The Lead Developer UK 2017](https://www.youtube.com/watch?v=9jd_vpcLK50) | [Slides](https://www.slideshare.net/patkua/constant-life-of-a-tech-lead) `Roadmap:Advanced`
  - Andrea Provaglio: Rethinking Leadership [Video @ GOTO 2017](https://www.youtube.com/watch?v=A04Pu5LlzHw) | [Slides](https://files.gotocon.com/uploads/slides/conference_7/273/original/GOTO%20Berlin%20-%20Rethinking%20Leadership-2.pdf) `Roadmap:Advanced`
  - Roy Osherove: Ten Mistakes Team Leaders Make [Video @ Skills Matter 2011](https://www.youtube.com/watch?v=qhjXc6niO3k) | [Slides](https://www.slideshare.net/royosherove/ten-mistakes-software-team-leaders-make-by-roy-osherove-5whyscom) `Roadmap:Advanced`

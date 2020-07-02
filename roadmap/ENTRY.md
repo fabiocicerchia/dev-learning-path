@@ -91,6 +91,7 @@
  - [Developer Roadmaps](https://roadmap.sh/)
  - [How to Find Your Career Path](https://lifehacker.com/top-10-ways-to-find-your-career-path-1628537579)
  - [Interview questions](https://github.com/odino/interviews)
+ - [Job Titles & Levels: What Every Software Engineer Needs to Know](https://www.holloway.com/s/trh-job-titles-levels-fundamentals-for-software-engineering)
  - [The 20 Toughest Job Interview Questions Heard At Apple, Google, Amazon And Others](https://www.businessinsider.com/toughest-job-interview-questions-2013-7)
 
 ## SOFT-SKILLS - METHODOLOGIES
