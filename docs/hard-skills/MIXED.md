@@ -50,7 +50,7 @@
  - [Codility](https://app.codility.com/programmers/) `Roadmap:Intermediate` `Roadmap:Advanced`
  - [Exercism](https://exercism.io/) `Roadmap:Intermediate` `Roadmap:Advanced`
  - [FightCodeGame](http://beta.fightcodegame.com/) `Roadmap:Intermediate` `Roadmap:Advanced`
- - [HackTheBox](https://www.hackthebox.eu/ `Roadmap:Advanced`
+ - [HackTheBox](https://www.hackthebox.eu/) `Roadmap:Advanced`
  - [HackThisSite](https://www.hackthissite.org/) `Roadmap:Advanced`
  - [HackerRank](https://www.hackerrank.com/) `Roadmap:Entry` `Roadmap:Intermediate` `Roadmap:Advanced` `must-learn`
 

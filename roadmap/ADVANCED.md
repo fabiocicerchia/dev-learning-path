@@ -45,7 +45,7 @@
  - [Exercism](https://exercism.io/)
  - [FightCodeGame](http://beta.fightcodegame.com/)
  - [HTTP for servers](http://www.and.org/texts/server-http)
- - [HackTheBox](https://www.hackthebox.eu/
+ - [HackTheBox](https://www.hackthebox.eu/)
  - [HackThisSite](https://www.hackthissite.org/)
  - [HackerRank](https://www.hackerrank.com/)
  - [Kata - Coding Dojo](http://codingdojo.org/kata/)
