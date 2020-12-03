@@ -7,10 +7,10 @@ function generate {
     IFS=$'\n'
     SEC=""
     for LINE in $(grep -r 'Roadmap:'$LVL docs | sort | sed 's/ `Roadmap:.*//' | sed 's/md:/md§/' | tr '§' '\n'); do
-        if [ "${LINE:0:3}" = " - " ]; then
+        if [ "${LINE:0:2}" = "- " ]; then
             echo $LINE
         elif [ "$LINE" != "$SEC" ]; then
-            echo -e "\n## $LINE" | sed 's/docs\/\(.*\)\/\(.*\)\.md/\1 - \2/' | tr '[a-z]' '[A-Z]'
+            echo -e "\n## $LINE\n" | sed 's/docs\/\(.*\)\/\(.*\)\.md/\1 - \2/' | tr '[a-z]' '[A-Z]'
             SEC=$LINE
         fi
     done

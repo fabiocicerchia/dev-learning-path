@@ -7,13 +7,13 @@
 
 ## Management
 
-- BOOK [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) `Roadmap:Advanced` `must-learn`
 - BOOK [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) `Roadmap:Advanced`
+- BOOK [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) `Roadmap:Advanced` `must-learn`
 
 ## Books
 
-- The Innovator’s Dilemma, by Clayton Christensen
-- Drive, by Daniel H. Pink
-- The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change, by Stephen R. Covey
-- The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich
 - Deep Work: Rules for Focused Success in a Distracted World, by Cal Newport
+- Drive, by Daniel H. Pink
+- The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich
+- The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change, by Stephen R. Covey
+- The Innovator’s Dilemma, by Clayton Christensen
