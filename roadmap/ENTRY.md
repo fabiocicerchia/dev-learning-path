@@ -21,6 +21,7 @@
  - Kevlin Henney: Enterprise Programming Tricks For Clean Code [Video](https://www.youtube.com/watch?v=dC9vdQkU-xI) | [Slides](https://www.slideshare.net/Kevlin/clean-coders-hate-what-happens-to-your-code-when-you-use-these-enterprise-programming-tricks-77305014)
  - Sander Hoogendoorn: How Thinking Small is Changing Software Development Big Time [Video @ GOTO 2019](https://www.youtube.com/watch?v=YCQMiFF9QXM) | [Slides](https://www.slideshare.net/aahoogendoorn/its-a-small-world-after-all-how-thinking-small-changes-software-big-time)
  - VIDEO [Mixed Paradigms: The Method to Madness. Venkat Subramaniam, Agile developer, Inc](https://www.youtube.com/watch?v=QYBRifsWHD0)
+ - [3A – Arrange, Act, Assert](https://xp123.com/articles/3a-arrange-act-assert/)
  - [Algorithms {fundamental techniques}](https://en.wikibooks.org/wiki/Algorithms)
  - [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
  - [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
@@ -31,11 +32,13 @@
  - [Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
  - [IDEA – nonverbal algorithm assembly instructions](https://idea-instructions.com/)
  - [Introduction to Test Driven Development (TDD)](http://agiledata.org/essays/tdd.html)
+ - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
  - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
  - [Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
  - [Pragmatic Programming Cheat Sheet](https://cheatography.com/marconlsantos/cheat-sheets/pragmatic-programming/)
  - [SOLID, GRASP, and Other Basic Principles of Object-Oriented Design](https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o)
  - [Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
+ - [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
  - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
  - [Types Of Software Testing: Different Testing Types With Details](https://www.softwaretestinghelp.com/types-of-software-testing/)
  - [Why NULL is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
@@ -45,6 +48,7 @@
 
 ## HARD-SKILLS - LANGUAGES
  - [A Tour of Go](https://tour.golang.org/)
+ - [Awesome Go](https://github.com/avelino/awesome-go)
  - [CSS Diner](https://flukeout.github.io/)
  - [Choosing a Programming Language](https://docs.microsoft.com/en-us/previous-versions/cc168615(v=msdn.10))
  - [FLEXBOX FROGGY](https://flexboxfroggy.com/)
@@ -81,6 +85,7 @@
  - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
  - [Learning Resource Roadmap - (Front-End Development)](https://github.com/devcenter-square/Learning-Resource-Path-Front-End)
  - [Netiquette](https://www.fau.edu/oit/student/netiquette.php)
+ - [Post-Commit Reviews](https://copyconstruct.medium.com/post-commit-reviews-b4cc2163ac7a)
  - [Web Developer Shortcut](https://github.com/rkukuh/web-developer-shortcut)
 
 ## SOFT-SKILLS - JOBS
@@ -89,15 +94,18 @@
  - [34 Crucial Tips For Your Next Job Interview](https://www.lifehack.org/articles/work/34-crucial-tips-for-your-next-job-interview.html)
  - [7 Free Career Aptitude Tests You Can Take Online Today](https://blog.hubspot.com/marketing/career-aptitude-tests)
  - [Developer Roadmaps](https://roadmap.sh/)
+ - [Evergreen Skills for Software Developers](https://github.com/romenrg/evergreen-skills-developers)
  - [How to Find Your Career Path](https://lifehacker.com/top-10-ways-to-find-your-career-path-1628537579)
  - [Interview questions](https://github.com/odino/interviews)
  - [Job Titles & Levels: What Every Software Engineer Needs to Know](https://www.holloway.com/s/trh-job-titles-levels-fundamentals-for-software-engineering)
+ - [Software Engineering is different from Programming](https://medium.com/edge-coders/software-engineering-is-different-from-programming-b108c135af26)
  - [The 20 Toughest Job Interview Questions Heard At Apple, Google, Amazon And Others](https://www.businessinsider.com/toughest-job-interview-questions-2013-7)
 
 ## SOFT-SKILLS - METHODOLOGIES
  - BOOK [Making Work Visible](https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150)
  - BOOK [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Essays-Software-Engineering/dp/0201835959) 
  - [Explaining Agile](https://www.forbes.com/sites/stevedenning/2016/09/08/explaining-agile/)
+ - [How to Write Awesome Tech Specs](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)
 
 ## SOFT-SKILLS - PERFORMANCE
  - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)

@@ -9,6 +9,8 @@
  - [Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d) `Roadmap:Intermediate`
  - [44 ways to be more productive](https://www.stl-training.co.uk/sharing/16-44-ways-be-more-productive.html) `Roadmap:Intermediate`
  - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique) `Roadmap:Entry` `must-learn`
+ - [Cognitive Biases in Programming](https://medium.com/hackernoon/cognitive-biases-in-programming-5e937707c27b) `Roadmap:Intermediate` `must-learn`
+ - [24 Key Capabilities To Drive Improvement In Software Delivery](https://itrevolution.com/24-key-capabilities-to-drive-improvement-in-software-delivery/) `Roadmap:Intermediate`
  - VIDEO [GOTO 2017 • Forget Velocity, Let's Talk Acceleration • Jessica Kerr](https://www.youtube.com/watch?v=Lbcyyu8XB_Y) `Roadmap:Advanced`
  - Dan North: Patterns of Effective Teams [Video @ GOTO 2017](https://www.youtube.com/watch?v=lvs7VEsQzKY) | [Slides](https://files.gotocon.com/uploads/slides/conference_3/62/original/Patterns_of_Effective_Teams%20PDF.pdf) `Roadmap:Advanced` `must-learn`
 

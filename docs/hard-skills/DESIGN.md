@@ -53,6 +53,7 @@
 
  - [Refactoring](https://sourcemaking.com/refactoring) `Roadmap:Intermediate`
  - [Provable Refactorings](https://github.com/digdeeproots/provable-refactorings) `Roadmap:Advanced`
+ - [Surviving Legacy Code with Golden Master and Sampling](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling) `Roadmap:Advanced`
  - BOOK [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0134757599) `Roadmap:Intermediate` `must-learn`
  - BOOK [Refactoring to Patterns](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351) `Roadmap:Intermediate`
 
@@ -65,8 +66,14 @@
 ## Testing
 
  - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html) `Roadmap:Intermediate`
- - [Introduction to Test Driven Development (TDD)](http://agiledata.org/essays/tdd.html) `Roadmap:Entry` `must`
- - [The beginner's guide to BDD (behaviour-driven development)](https://inviqa.com/blog/bdd-guide) `Roadmap:Intermediate` `must`
+ - [Introduction to Test Driven Development (TDD)](http://agiledata.org/essays/tdd.html) `Roadmap:Entry` `must-learn`
+ - [The beginner's guide to BDD (behaviour-driven development)](https://inviqa.com/blog/bdd-guide) `Roadmap:Intermediate` `must-learn`
  - [Types Of Software Testing: Different Testing Types With Details](https://www.softwaretestinghelp.com/types-of-software-testing/) `Roadmap:Entry`
- - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) `Roadmap:Entry` `must`
+ - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) `Roadmap:Entry` `must-learn`
+ - [Tests Coverage is Dead — Long Live Mutation Testing](https://medium.com/appsflyer/tests-coverage-is-dead-long-live-mutation-testing-7fd61020330e) `Roadmap:Intermediate` `must-learn`
+ - [Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing) `Roadmap:Intermediate`
+ - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html) `Roadmap:Entry` `must-learn`
+ - [TestDouble](https://martinfowler.com/bliki/TestDouble.html) `Roadmap:Entry` `must-learn`
+ - [3A – Arrange, Act, Assert](https://xp123.com/articles/3a-arrange-act-assert/) `Roadmap:Entry` `must-learn`
+ - [Mutation Testing in Software Testing: Mutant Score & Analysis Example](https://www.guru99.com/mutation-testing.html) `Roadmap:Intermediate` `must-learn`
  - BOOK [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) `Roadmap:Entry`

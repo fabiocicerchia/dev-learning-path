@@ -27,12 +27,14 @@
 
  - [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) `Roadmap:Intermediate`
  - [The Modern JavaScript Tutorial](https://javascript.info/) `Roadmap:Entry`
+ - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 ## Go
 
  - [Algorithms with Go](https://algorithmswithgo.com/) `Roadmap:Intermediate`
  - [Go by Example](https://gobyexample.com/) `Roadmap:Entry`
  - [A Tour of Go](https://tour.golang.org/) `Roadmap:Entry`
+ - [Awesome Go](https://github.com/avelino/awesome-go) `Roadmap:Entry`
 
 ## Python
 

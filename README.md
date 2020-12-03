@@ -33,6 +33,7 @@ The resources might have a tag `must-learn` because the author considers those a
    - [Code Design](docs/hard-skills/DESIGN.md)
    - [Databases](docs/hard-skills/DATABASES.md)
    - [Industry Standards](docs/hard-skills/STANDARDS.md)
+   - [ML/AI](docs/hard-skills/ML_IA.md)
    - [Mix](docs/hard-skills/MIXED.md)
    - [Programming Languages](docs/hard-skills/LANGUAGES.md)
    - [Project / Product Management](docs/hard-skills/MANAGEMENT.md)

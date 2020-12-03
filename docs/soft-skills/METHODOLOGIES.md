@@ -29,3 +29,4 @@
 
  - [Software disenchantment](https://tonsky.me/blog/disenchantment/) `Roadmap:Intermediate`
  - [Why Do Managers Hate Agile?](https://www.forbes.com/sites/stevedenning/2015/01/26/why-do-managers-hate-agile/) `Roadmap:Intermediate`
+ - [How to Write Awesome Tech Specs](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9) `Roadmap:Entry`

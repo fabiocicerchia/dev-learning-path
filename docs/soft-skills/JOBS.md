@@ -58,6 +58,12 @@
  - Andrea Provaglio: Rethinking Leadership [Video @ GOTO 2017](https://www.youtube.com/watch?v=A04Pu5LlzHw) | [Slides](https://files.gotocon.com/uploads/slides/conference_7/273/original/GOTO%20Berlin%20-%20Rethinking%20Leadership-2.pdf) `Roadmap:Advanced`
  - Roy Osherove: Ten Mistakes Team Leaders Make [Video @ Skills Matter 2011](https://www.youtube.com/watch?v=qhjXc6niO3k) | [Slides](https://www.slideshare.net/royosherove/ten-mistakes-software-team-leaders-make-by-roy-osherove-5whyscom) `Roadmap:Advanced`
  - Michael Lopp: The New Manager Death Spiral [Video @ #LeadDevNewYork 2018](https://www.youtube.com/watch?v=pAbU3WJ-NBw) | [Slides](https://speakerdeck.com/calibrate/9-new-manager-death-spiral) `Roadmap:Advanced`
+ - [Software Engineering is different from Programming](https://medium.com/edge-coders/software-engineering-is-different-from-programming-b108c135af26) `Roadmap:Entry` `must-learn`
+ - [Avoiding A CTO Meltdown: Part 1 - Defining The Role](http://www.forbes.com/sites/danwoods/2013/08/22/avoiding-a-cto-meltdown-part-1-defining-the-cto-role/)
+ - [Avoiding A CTO Meltdown: Part 2 - Warning Signs](http://www.forbes.com/sites/danwoods/2013/08/26/avoiding-a-cto-meltdown-part-2-warning-signs/)
+ - [Avoiding A CTO Meltdown: Part 3 - Fixes](https://www.forbes.com/sites/danwoods/2013/09/12/avoiding-a-cto-meltdown-part-3-fixes/)
+ - [Evergreen Skills for Software Developers](https://github.com/romenrg/evergreen-skills-developers) `Roadmap:Entry` `must-learn`
+ - [IF MANAGEMENT ISN’T A PROMOTION, THEN ENGINEERING ISN’T A DEMOTION](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
  - BOOK [97 Things Every SQL Developer Should Know](https://www.amazon.com/Things-Every-Developer-Should-Know/dp/0596804334) `Roadmap:Intermediate`
  - BOOK [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903) `Roadmap:Intermediate`
  - BOOK [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484) `Roadmap:Intermediate`

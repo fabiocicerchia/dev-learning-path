@@ -18,7 +18,6 @@
  - [Web Developer Shortcut](https://github.com/rkukuh/web-developer-shortcut) `Roadmap:Entry` `Roadmap:Intermediate` `Roadmap:Advanced`
  - [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) `Roadmap:Entry`
 
-
 ## Startup
 
  - [Startup Playbook](https://playbook.samaltman.com/) `Roadmap:Advanced`
@@ -43,6 +42,7 @@
  - [Netiquette](https://www.fau.edu/oit/student/netiquette.php) `Roadmap:Entry`
  - [Seven principles of pair programming etiquette](https://itnext.io/seven-principles-of-pair-programming-etiquette-74a2b3b233b0) `Roadmap:Intermediate`
  - [Developer Etiquette – Code Review and Pull Request Comments](https://erikzaadi.com/2019/09/29/pull-request-etiquette-a-set-of-simple-rules-for-your-code-review/) `Roadmap:Entry`
+ - [Post-Commit Reviews](https://copyconstruct.medium.com/post-commit-reviews-b4cc2163ac7a) `Roadmap:Entry`
  - [Dev etiquettes that you must not ignore](https://codeburst.io/dev-etiquettes-that-you-must-not-ignore-619e1bb490b8) `Roadmap:Intermediate`
 
 ## Tests

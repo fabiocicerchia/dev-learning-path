@@ -9,6 +9,7 @@
  - [WHAT DO WE REALLY NEED TO ENCRYPT. CHEATSHEET](https://www.cossacklabs.com/blog/what-we-need-to-encrypt-cheatsheet.html) `Roadmap:Advanced` `must-learn`
  - [Secure Programming HOWTO](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO.html) `Roadmap:Advanced`
  - [Security architecture anti-patterns](https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns) `Roadmap:Advanced`
+ - [Exploits, Vulnerabilities and Payloads: Practical Introduction](https://www.infosecmatter.com/exploits-vulnerabilities-and-payloads-practical-introduction/) `Roadmap:Advanced`
  - BOOK [CEH v10 Certified Ethical Hacker](https://www.amazon.com/Certified-Ethical-Hacker-Study-Guide/dp/1119533198) `Roadmap:Advanced`
  - BOOK [ISC2 CISSP Certified Information Systems Security Professional Official Study Guide](https://www.amazon.com/Certified-Information-Security-Professional-Official/dp/1119523265) `Roadmap:Advanced`
  - VIDEO [YouTube Channel: Dion Training](https://www.youtube.com/channel/UCEJy7bKsMJqyb_z75V1fAsg) `Roadmap:Intermediate`
