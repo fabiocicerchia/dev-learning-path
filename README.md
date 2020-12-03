@@ -14,8 +14,8 @@ Do you like this project? Please considering [sponsoring me](https://www.patreon
 
 ## Prerequisites
 
- 1. English Fluency
- 1. PC / Mac / RPi / etc
+1.  English Fluency
+1.  PC / Mac / RPi / etc
 
 ## Notes
 
@@ -23,36 +23,36 @@ The resources might have a tag `must-learn` because the author considers those a
 
 ## Contents
 
- - [Soft Skills](docs/soft-skills/README.md)
-   - [Jobs & Career](docs/soft-skills/JOBS.md)
-   - [Methodologies](docs/soft-skills/METHODOLOGIES.md)
-   - [Mix](docs/soft-skills/MIXED.md)
-   - [Performance](docs/soft-skills/PERFORMANCE.md)
- - [Hard Skills](docs/hard-skills/README.md)
-   - [Architecture & Infrastructure](docs/hard-skills/INFRASTRUCTURE.md)
-   - [Code Design](docs/hard-skills/DESIGN.md)
-   - [Databases](docs/hard-skills/DATABASES.md)
-   - [Industry Standards](docs/hard-skills/STANDARDS.md)
-   - [ML/AI](docs/hard-skills/ML_IA.md)
-   - [Mix](docs/hard-skills/MIXED.md)
-   - [Programming Languages](docs/hard-skills/LANGUAGES.md)
-   - [Project / Product Management](docs/hard-skills/MANAGEMENT.md)
-   - [Security](docs/hard-skills/SECURITY.md)
-   - [UI/UX, Copy, SEO](docs/hard-skills/COMMUNICATION.md)
-   - [Web Performance](docs/hard-skills/PERFORMANCE.md)
- - [Mixed](docs/mixed/README.md)
-   - [Books](docs/mixed/BOOKS.md)
-   - [Communities & User Groups](docs/mixed/COMMUNITY.md)
-   - [Courses](docs/mixed/COURSES.md)
-   - [Fun](docs/mixed/FUN.md)
-   - [Industry Trends](docs/mixed/TRENDS.md)
-   - [Mix](docs/mixed/MIXED.md)
+- [Soft Skills](docs/soft-skills/README.md)
+  - [Jobs & Career](docs/soft-skills/JOBS.md)
+  - [Methodologies](docs/soft-skills/METHODOLOGIES.md)
+  - [Mix](docs/soft-skills/MIXED.md)
+  - [Performance](docs/soft-skills/PERFORMANCE.md)
+- [Hard Skills](docs/hard-skills/README.md)
+  - [Architecture & Infrastructure](docs/hard-skills/INFRASTRUCTURE.md)
+  - [Code Design](docs/hard-skills/DESIGN.md)
+  - [Databases](docs/hard-skills/DATABASES.md)
+  - [Industry Standards](docs/hard-skills/STANDARDS.md)
+  - [ML/AI](docs/hard-skills/ML_IA.md)
+  - [Mix](docs/hard-skills/MIXED.md)
+  - [Programming Languages](docs/hard-skills/LANGUAGES.md)
+  - [Project / Product Management](docs/hard-skills/MANAGEMENT.md)
+  - [Security](docs/hard-skills/SECURITY.md)
+  - [UI/UX, Copy, SEO](docs/hard-skills/COMMUNICATION.md)
+  - [Web Performance](docs/hard-skills/PERFORMANCE.md)
+- [Mixed](docs/mixed/README.md)
+  - [Books](docs/mixed/BOOKS.md)
+  - [Communities & User Groups](docs/mixed/COMMUNITY.md)
+  - [Courses](docs/mixed/COURSES.md)
+  - [Fun](docs/mixed/FUN.md)
+  - [Industry Trends](docs/mixed/TRENDS.md)
+  - [Mix](docs/mixed/MIXED.md)
 
 ## Roadmap
 
- - [Entry](roadmap/ENTRY.md)
- - [Intermediate](roadmap/INTERMEDIATE.md)
- - [Advanced](roadmap/ADVANCED.md)
+- [Entry](roadmap/ENTRY.md)
+- [Intermediate](roadmap/INTERMEDIATE.md)
+- [Advanced](roadmap/ADVANCED.md)
 
 ## Contribution
 
