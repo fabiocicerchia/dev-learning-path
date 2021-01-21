@@ -10,7 +10,21 @@ This repo was inspired by the [XPeppers' Learning Path](https://github.com/xpepp
 
 [![Follow me on twitter](https://img.shields.io/twitter/follow/fabiocicerchia.svg?logo=twitter)](https://twitter.com/fabiocicerchia)
 
-Do you like this project? Please considering [sponsoring me](https://www.patreon.com/fabiocicerchia) or ★ starring this repo!
+Do you like this project? Please considering [sponsoring me](https://github.com/sponsors/fabiocicerchia) or ★ starring this repo!
+
+<kbd>
+  <a href="https://10xse.academy">
+    <img src="https://10xse.academy/assets/images/cover2.png" width="100" align="left">
+    <strong>10x Software Engineer | Learning Path</strong>
+    <br>
+    <p>A journey through thoughts and suggestions off the beaten path to make your developer life easier.</p>
+    <br>
+    <strong>Topics: </strong><br>
+    Ground Rules & Manifestos, SDLC & DevOps, Algorithms, OOP & Design Patterns<br>
+    Asynchronous Programming, Testing & Refactoring, DB, DDD, Functional & CQRS/ES<br>
+    Networking & Security, Architecture, Jobs & Management, Productivity, Standards & Best Practices
+  </a>
+</kbd>
 
 ## Prerequisites
 
