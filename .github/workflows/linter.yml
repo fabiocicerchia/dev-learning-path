@@ -23,6 +23,9 @@ jobs:
   build:
     # Name the Job
     name: Lint Code Base
+    permissions:
+      contents: read
+      statuses: write
     # Set the agent to run on
     runs-on: ubuntu-latest
 
